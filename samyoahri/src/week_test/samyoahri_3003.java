@@ -1,6 +1,5 @@
-package week01;
+package week_test;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 class Chess_pieces{
